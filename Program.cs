@@ -1,4 +1,6 @@
-﻿CalculadoraGPA.CalcularGPA();
+﻿FarenheitACelcius.Convertir();
+// Operaciones.OperacionesBasicas();
+// CalculadoraGPA.CalcularGPA();
 // CalificacionAlumnos.Calificaciones(); 
     
     
