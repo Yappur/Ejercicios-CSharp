@@ -12,3 +12,4 @@
 /home/mateo/Escritorio/CSharp/Test_1/obj/Debug/net10.0/Test_1.pdb
 /home/mateo/Escritorio/CSharp/Test_1/obj/Debug/net10.0/Test_1.genruntimeconfig.cache
 /home/mateo/Escritorio/CSharp/Test_1/obj/Debug/net10.0/ref/Test_1.dll
+/home/mateo/Escritorio/CSharp/Test_1/obj/Debug/net10.0/Test_1.sourcelink.json

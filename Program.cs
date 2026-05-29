@@ -1,31 +1,29 @@
-﻿class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine(" bienvenido a mi programa ");
+﻿CalculadoraGPA.CalcularGPA();
+// CalificacionAlumnos.Calificaciones(); 
+    
+    
+    // Console.WriteLine(" bienvenido a mi programa ");
 
-        Console.WriteLine(" Tipos de caracteres ");
-        Console.WriteLine(" char: solo puede contener un caracter y se utilizan ''");
+    //     Console.WriteLine(" Tipos de caracteres ");
+    //     Console.WriteLine(" char: solo puede contener un caracter y se utilizan ''");
 
-        char letra = 'A';
-        Console.WriteLine("El valor de la variable letra es: " + letra);
+    //     char letra = 'A';
+    //     Console.WriteLine("El valor de la variable letra es: " + letra);
 
-        int numero = 10;
-        Console.WriteLine($"El valor de mi numero entero es de {numero}");
+    //     int numero = 10;
+    //     Console.WriteLine($"El valor de mi numero entero es de {numero}");
 
-        Console.WriteLine("------------------------------");
+    //     Console.WriteLine("------------------------------");
 
-        string cambio;
-        cambio = "Hola, soy Jose";
-        Console.WriteLine(cambio);
+    //     string cambio;
+    //     cambio = "Hola, soy Jose";
+    //     Console.WriteLine(cambio);
 
-        cambio = "Hola, soy Juan";
-        Console.WriteLine(cambio);
+    //     cambio = "Hola, soy Juan";
+    //     Console.WriteLine(cambio);
 
-        cambio = "Hola, soy Maria";
-        Console.WriteLine(cambio);
+    //     cambio = "Hola, soy Maria";
+    //     Console.WriteLine(cambio);
 
-        string raul = "Hola, soy Raul";
-        Console.WriteLine(raul);
-    }
-}
+    //     string raul = "Hola, soy Raul";
+    //     Console.WriteLine(raul);
