@@ -1,5 +1,8 @@
-﻿Compra compra = new Compra();
-compra.Ejecutar();
+﻿ListaEnlazada listaEnlazada = new ListaEnlazada();
+listaEnlazada.Agregar(10);
+listaEnlazada.Imprimir();
+// Compra compra = new Compra();
+// compra.Ejecutar();
 
 // RecorrerPares.Ejecutar();
 
