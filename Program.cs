@@ -1,10 +1,6 @@
-﻿Ejercicio02.Ejercicio2();
-// ArbolBinario.ArbolBinarioBusqueda();
-// queueExample.queueTest();
-
-// ConsoleTest.ConsolaTest();  
-
-
+﻿// ﻿ListaEnlazada listaEnlazada = new ListaEnlazada();
+// listaEnlazada.Agregar(10);
+// listaEnlazada.Imprimir();
 // Compra compra = new Compra();
 // compra.Ejecutar();
 
