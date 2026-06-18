@@ -1,5 +1,12 @@
-﻿Compra compra = new Compra();
-compra.Ejecutar();
+﻿Ejercicio02.Ejercicio2();
+// ArbolBinario.ArbolBinarioBusqueda();
+// queueExample.queueTest();
+
+// ConsoleTest.ConsolaTest();  
+
+
+// Compra compra = new Compra();
+// compra.Ejecutar();
 
 // RecorrerPares.Ejecutar();
 
